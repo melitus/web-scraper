@@ -61,7 +61,7 @@ The extracted data could be further cleaned and used in machine learning tasks l
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/melitus/web-scraper.git
-cd book-scraper
+cd web-scraper
 ````
 
 ### 2. Install Dependencies

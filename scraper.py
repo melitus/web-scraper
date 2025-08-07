@@ -1,5 +1,3 @@
-# scraper.py
-
 import requests
 from bs4 import BeautifulSoup
 from requests.exceptions import RequestException
